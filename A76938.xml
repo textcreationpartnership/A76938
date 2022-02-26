@@ -1,0 +1,231 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A remonstrance of divers remarkable passages and proceedings of our army in the kingdome of Ireland, being an extract of a letter, sent out of Dublin from Doctor Arnold Boat, doctor to the state, and Physitian Generall to the army, to his brother Doctor Gerard Boat, doctor to the Kings Majestie, living in Aldermanburie. As also the certaine death of Sir Charles Coote, and the manner thereof. May 18. Ordered to be printed and published.</title>
+            <author>Boate, Arnold, 1600?-1653?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76938</idno>
+            <idno type="STC">Wing B3371</idno>
+            <idno type="STC">Thomason E148_8</idno>
+            <idno type="STC">ESTC R212718</idno>
+            <idno type="EEBO-CITATION">99871297</idno>
+            <idno type="PROQUEST">99871297</idno>
+            <idno type="VID">156690</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76938)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156690)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 26:E148[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A remonstrance of divers remarkable passages and proceedings of our army in the kingdome of Ireland, being an extract of a letter, sent out of Dublin from Doctor Arnold Boat, doctor to the state, and Physitian Generall to the army, to his brother Doctor Gerard Boat, doctor to the Kings Majestie, living in Aldermanburie. As also the certaine death of Sir Charles Coote, and the manner thereof. May 18. Ordered to be printed and published.</title>
+                  <author>Boate, Arnold, 1600?-1653?</author>
+                  <author>Boate, Gerard, 1604-1650.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. Badger, for Richard Lovvnds, at his shop next without Ludgate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Coote, Charles, --  Sir, d. 1642 --  Early works to 1800.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156690:1" rendition="simple:additions"/>
+            <p>A Remonſtrance OF DIVERS Remarkable PASSAGES and Proceedings of our Army in the Kingdome of IRELAND, BEING An Extract of a LETTER, Sent out of DUBLIN from Doctor ARNOLD BOAT, Doctor to the State, and Phyſitian Generall to the Army, to his brother Doctor GERARD BOAT, Doctor to the Kings MAJESTIE, living in <hi>Aldermanburie.</hi>
+            </p>
+            <p>
+               <hi>As alſo the certaine Death of Sir</hi> Charles Coote, <hi>and the manner thereof.</hi>
+            </p>
+            <p>May 18. Ordered to be Printed and Publiſhed.</p>
+            <p>LONDON, Printed by R. BADGER, for RICHARD LOVVNDS, at his Shop next without Ludgate. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156690:2"/>
+            <pb facs="tcp:156690:2"/>
+            <div type="letter">
+               <opener>
+                  <dateline>
+                     <date>26. Aprill. 1642.</date>
+                  </dateline>
+               </opener>
+               <p>
+                  <seg rend="decorInit">L</seg>Ievtenant Colonel Monk, being gone to Lyſlip (a Caſtle upon the Siffie, 17. miles from Dublin) with a thou<g ref="char:EOLhyphen"/>ſand men, and having battered the Caſtle all day with two great peeces of Ordnance, without making a breach; in the night time the Rogues all ran away, the Caſtle being not beſet round about by our people but a way left open, by which they did eſcape. Their flight being perceived as ſoon as they were all gone, and not tilthen the firelocks and Dragoneers made after them, and killed ſome of them, the reſt flying into a wood, whether our men did not thinke it fit to venture after them.</p>
+               <p>The next day morning, Wedneſday, 27. Aprill, our men returned to Dublin, having left a Garriſon of an hundred men in the Caſtle.</p>
+               <p>Friday, 29. Aprill, ſome of our foot and horſe having gone a forraging ſix or ſeven miles off, wide of Swords, were unexpectedly ſet upon by a company of the Rebels who killed diverſe of the Carmen and their wives and two Troopers, the reſt with all ſpeed retiring to Dunſaghlin, where a Troope of ours lay in garriſon, by whoſe helpe they fetched off the dead bodies, and burned the towne and Caſtle whereout the miſchiefe had been done, the rogues by that time being all fled away.</p>
+               <p>This weeke, the Miniſters in towne having petitioned to the Lords that all the Friars, Nuns, and Prieſts about Dublin, might be impriſoned, that they might ſerve as hoſtages whereby to releaſe thoſe of their coate, who ſtill in great numbers are in the hands of the Rebels in ſeverall parts of the Countrey. A Commiſſion was granted to that purpoſe, and put into the hands of Captaine Ipſlea (after that ſeverall other Captaines had refu<g ref="char:EOLhyphen"/>ſed it) who with great diligence executed it, apprehending as many as hee could find out, and committing them to the Marſhallſies.</p>
+            </div>
+            <div type="letter">
+               <head>Sir <hi>Charles Cootes</hi> Expedition.</head>
+               <p>My Lord Lile and my Lord Di<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bie being gone to the Mace on thurſ<g ref="char:EOLhyphen"/>day, 28. Aprill, with three troopes: Sir Charles with them, and three troopes more, and eight ſcore foote (partly Musketeers, and partly Fire<g ref="char:EOLhyphen"/>locks) ma<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ched out the ſame night, carrying good ſtore of Amunition with him for the place to be relieved, not in Carts and Wagons, but upon
+<pb facs="tcp:156690:3"/> horſe, for the more expedition, that night they marched ten miles, and the next day they came to Caſtle-Iordains ten miles further: In which place ſir Iohn Gilford, with my Lady Iepſon his mother, had defended them<g ref="char:EOLhyphen"/>ſelves againſt ehe Rebels, and a great many of their Engliſh neighbours, e<g ref="char:EOLhyphen"/>ver ſince the rebellion.</p>
+               <p>Saturday morning they went from Caſtle-Iordain to Geſhell, where my Lady of Ofaly, mother to the Lord Digbie, very couragiouſly had held out all this while. In their march thither comming to Philips town, they found the towne emptie, all the men and women to the number of three ſcore, having retired themſelves within the Caſtle, out of which the Re<g ref="char:EOLhyphen"/>bels with their peeces continually playing upon our men who marched up to them through a broad open ſtreet, where the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> had a very faire aime at them, yet did them no other hurt, than that they ſhot one ſouldier through the body. Our men being come under the walls, and out of danger of their ſhot, broke open their gates with their Muskets: and harming none of the women (which they obſerved in all this journey) of the men they hanged ſome, and the reſt they carried priſoners with them, and among them one Conne, a great man among the rebels in thoſe parts.</p>
+               <p>That night having lodged there, the next day being, Sunday the firſt of May, they marched to Geſhell, and having relieved that place, returned the ſame day to Caſtle-Iordaine, from whence the next day (having firſt hanged all the priſoners brought from Philips town) they marched to Trim<g ref="char:EOLhyphen"/>me. A mile at this ſide of Trime, a troop of the Rebels of the matter of an 100. Horſe met them 2. ort 3. of the Lords of the Pale being amongſt them, for they came ſo neare that they could perfectly be diſcerned, but before our men could come to charge them, they turned their bridles and rid a<g ref="char:EOLhyphen"/>way with full ſpeed, neither could our men purſue them, having loſt too much time in the paſſing of a brooke, betweene them and the rebels, hav<g ref="char:EOLhyphen"/>ing a verry narrow ford. Therefore omitting them, they marched up to the towne, and entred it without reſiſtance, three or foure hundred of the Rogues, who lay there, having forſaken it immediately before, having ſet a fire ſome houſes, and Reekes of Hay and corne, that under favour of the ſmoke they might get away the more freely. A few rogues that were found loytering in towne, were knockt Down: and all the women and children, whereof there was there a great number, Sir Charles comman<g ref="char:EOLhyphen"/>ded upon paine of death to leave the towne within two dayes; intending forthwith to plant it with Engliſh, in the ſame manner as he hath done at the Mace. Our ſouldiers got a great deale of good pillage here, Sir Charles being come ſo unexpectedly upon them, as they had no leiſure to convey away much. Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Town is ſeated upon the Boin, the ſame river that geoth down to Droughda from whence it is diſtant 15. miles, and twen<g ref="char:EOLhyphen"/>ty from Dublin: ſtanding in a very pleaſant and fruitfull countrey, and was the reſinence of ſir Hugh de Laar, the firſt conquerour of Meath. It <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ath abundance of ſtone houſes and caſtles in it, and may eaſily be forti<g ref="char:EOLhyphen"/>fied; being of great conſequence for the ſecuring of all Meath and Fin<g ref="char:EOLhyphen"/>gall. At the Navan a towne upon the ſame river, halfe way be<g ref="char:EOLhyphen"/>tweene Trimme and Droghda, were the matter of two thouſand rebels at that time, when Trime was taken: who hearing thereof, were ſo poſſeſt
+<pb facs="tcp:156690:3"/> with terrour, as thinking themſelves nothing ſecure ſo neere ſir Charles (whoſe very name is exceeding terrible to the Rebels) although th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> towne might eaſily have beene made good by a farre leſſe number than theirs, and againſt farre greater forces than thoſe which wee had then at Trime; they forſooke the towne, and fired it. This little armie fired but a few places, till they came to Philips towne, but from thence to Geſhell, and from Geſhe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l to Trim, they fired all the countrey as they went, and in the whole journey they killed as many men as fell in their hands, but thoſe were not very many, all being fled before them. From Trime ſir Charles ſent 50. Dragoneers to Dublin on tueſday the third of May, with Conner the rebell priſoner; and to demand ſome forces to lye in Garriſon at Trimme: whereupon it was ordered by the State, that one thouſand foot ſhould be ſent thither, not any whole Regiment, but companies out of the three ſeverall Regiments of my Lord Lievtenant, ſir Simon Harcourt, and Colonell Crafford: which forces are to march thither to morrow, Sa<g ref="char:EOLhyphen"/>turday, 7. May.</p>
+            </div>
+            <div type="letter">
+               <head>The taking of the Nevvrie and <hi>Carlingford.</hi>
+               </head>
+               <p>The joyfull newes of Sir Charles COOTS proſperous proceedings, brought to us on Tueſday Evening, the third of <hi>May,</hi> was the next day, ſeconded with as good newes from the <hi>North.</hi> For on Wedneſday Eve<g ref="char:EOLhyphen"/>ning came to Towne Captaine <hi>Cadogan</hi> with twelve Horſe, being that morning come from Dundalke, and brought along a Meſſage from the Newrie, ſent by my Lord Conway, to the Lords Iuſtices and Counſell: Whereby wee undeſtood that my Lord Conway with an Army of partly Engliſh, and partly Scotch, being come to the Newrie on Saturday 19. <hi>April,</hi> found the Towne empty, the Rebels being fled out of it upon the approach of our forces, and fired it before they went. The Caſtle was kept by a Garriſon, but the Ordnance being placed againſt it, they were ſoone daunted out of their reſolution, and came to Parley; Wherein at firſt they talked very bigge, and of marching out not onely with their goods but with their Armes alſo, their pieces charged, their matches bur<g ref="char:EOLhyphen"/>ning, bullets in their mouthes, and their Colours flying: but were glad to come to a compoſition for their lives onely, and to march out with nothing but white ſtaves in their hands. And thus much it ſelfe would not have beene granted them, but in regard of our Priſoners with them (Sir <hi>Edward Trevor,</hi> Sir <hi>Charles Po<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ns,</hi> and a many more, both men and women, moſt of them of good qualitie) whom all they would have knocked on the head, if they could not have obtained quarter for them<g ref="char:EOLhyphen"/>ſelves.</p>
+               <p>About this ſame time the Rebels left Carlingford (a Towne ſeated neer the mouth of that Bay, whereunto the little River running by the Newrie, diſchargeth it ſelfe) and fired it, leaving a Garriſon in the Caſtle: under which Caſtle a Ship, ſent from Knockfergus by My Lord Conway, at the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ime of his comming away, with command to waite on him in that haven,
+<pb facs="tcp:156690:4"/> coming to Anchor the ſame time that the Newrie was taken, they hung ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> French Flags: Whereupon ſome of the Rebels being come abord, they told them that they were ſent by the French Cardinall to relieve them with Armes and Amunition, and that they would deliver it, if ſome of their principall men would come to receive it. This newes being brought to the Caſtle, the Commanders of the garriſon went abord, whom the Cap<g ref="char:EOLhyphen"/>taine having laid by the heeles, went a ſhore with a good number of his Souldiers, to take the Caſtle, now deprived of its Commanders. Iuſt as he was landed, and putting his men in order, there appeared Sir Henry Tich<g ref="char:EOLhyphen"/>burne comming downe the Hill with an Army, who knowing nothing of what was paſt either there or at the Newrie, was come thither with an in<g ref="char:EOLhyphen"/>tent to make himſelfe Maſter of that place. The Captaine <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>artled at that ſight, as thinking they had beene enemies, began to retreate, and went to get himſelfe to his ſhip againe: When Sir Henry ſtill approching, they perceived them to be their friends, and ſo both met with great joy on both ſides, and mutuall congratulations, and having put a garriſon into the Ca<g ref="char:EOLhyphen"/>ſtle, the Captaine returned to his Ship, and Sir Henry to <hi>Dundalke.</hi>
+               </p>
+            </div>
+            <div type="letter">
+               <head>An Ext<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>act of a Letter from Deane <hi>Barnard</hi> to me, dated at <hi>Droghda,</hi> 28 of <hi>April,</hi> of ſome exploits there about.</head>
+               <p>The laſt weeke Sir Henry Tichburne marched out from Dundalke three or foure miles to Bates Wood, where he had bin informed of Collo Mac<g ref="char:EOLhyphen"/>brians lurking with a hundred men, burnt the Towne, and killed about one hundred and fiftie Rebels, without the hurt of one man of ours. Ye<g ref="char:EOLhyphen"/>ſterday Captaine Gibſon with ſome foote and horſe marched out from hence, neere a dozen miles, killed about a hundred, fired all the Countrey, and returned without the leaſt dammage to any<g ref="char:punc">▪</g> yet they appeared in di<g ref="char:EOLhyphen"/>verſe little bodies. We have now ſetled another Garriſon at Mellifont, and make ſome worke that wayes alſo.</p>
+            </div>
+            <div type="letter">
+               <head>Of the proceedings of <hi>Connaught.</hi>
+               </head>
+               <p>The ſame day, that we heard the Newrie was taken, news alſo came out of Connaught, whereby wee underſtand, that matters there alſo begin to goe very well on ouo ſide, and that my Lord Preſident about Atl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne, Sir Charles Coote the younger (old Sir Charles his eldeſt ſonne) about Ca<g ref="char:EOLhyphen"/>ſtle-Coote, and the Garriſon of Elfin, did beſtir themſelves bravely, had beaten the Rebels ſeverall times, and with ſmall numbers had given to great bodies of theirs man<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a notable overthrow; ſo that now they dare not come neere them in many miles: but our people many times march out againſt them.</p>
+               <p>The Citie of Gallowa having temporiſed a great while, at laſt run in<g ref="char:EOLhyphen"/>to open Rebellion, and beſieged the Fort: upon notice whereof the State ſent a ſhip from hence to go and relieve it with amunition, and other ne<g ref="char:EOLhyphen"/>ceſſary proviſion, this ſhip ſafely arrived there, and put thoſe things into
+<pb facs="tcp:156690:4"/> the For<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, the Towneſ-men vaine in having indeavoured to hinder it with their Ordnance, and while, they were diſcharging their Canon at her, one of the peeces broke aſunder, and few the matter of Twenty men of their owne, and amongſt them one Sir Thomas Blake, a man of great note at Galoway.</p>
+               <p>This ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me weeke wee alſo heard out of Mounſter, and of the brave <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ats, which Sir Charles Vavaſour and my Lord of I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>chequeen had done upon the Rebels; and how fallying out of Corke, with only 300 men, they had put my Lord of Muskerrie, with an Army of 3000. men to the worſt, and killed a great many of the Rebels: whereof I will ſay no more becauſe I know you have had that newes in <hi>London</hi> a good while ſince, and before we had it here in <hi>Dublin.</hi>
+               </p>
+            </div>
+            <div type="letter">
+               <opener>
+                  <dateline>From <hi>Dublin</hi> 
+                     <date>the Eleventh of MAY. 1642.</date>
+                  </dateline>
+               </opener>
+               <p>THeſe occurrences have hapned, and come to our certaine know<g ref="char:EOLhyphen"/>ledge, firſt out of Connaght, That the Noble Earle of Clan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ard ſtandeth loyall and right to the King, and hath relieved the Fort of Galolway:</p>
+               <p n="2">2 Out of Munſter that Muskerry hath been met with by our forres and is ſhot into the ſhoulder, and that Captaine William Iephſon hath relieved the CASTLE of Rothgogan, upon whom 500. of the rogues approa<g ref="char:EOLhyphen"/>ched, ſuppoſing to devoure him, but he by a diſſembling flight, drew them into a plaine, and ſlew 240. of them, and tooke the Lievetenants, and En<g ref="char:EOLhyphen"/>ſignes Priſoners.</p>
+               <p>Thirdly, Out of Vlſter, and the parts of Lynſter, bordering upon it, That the Lord <hi>Conway</hi> attended with the Scottiſh Major, together with their forces, have taken the Newry, and a Caſtle adjoyning thereto, called Narrowater Caſtle, whence were delivered Sir Edward Trever, S. Charles Peynes, Captaine Smith, and others, &amp;c. And that an Engliſh Sea Cap<g ref="char:EOLhyphen"/>taine, by a witty policie putting forth the Spaniſh Colours, hath gained Carlingford; when they ſaw the Colours, twelve of the chiefe Comman<g ref="char:EOLhyphen"/>ders of the Rebels went aboord, in hope to have Ammunition; but as ſoon as they were aboord they put them in hold, and ſending his Musketiers on ſhore, took the town: Sir Henry Tichborne being in Dundalke, having intelligence that there were 300 Rebels in a Wood call d <hi>Babes</hi> Wood, beſet the Wood with Horſemen and Pikemen, and ſent his Muskettiers in<g ref="char:EOLhyphen"/>to the Wood, and ſome of the Rebels got into Trees, and others fled out, but there did not eſcape above fifty men.</p>
+               <p>Fourthly, That the Lord Liſle, and others, marched with Troopes of
+<pb facs="tcp:156690:5"/> Horſe, a ſmall number of Dragoneers, and a few Firelockes to Philips-Towne in the Kings County; they tooke the Fort, and ſacked the Towne, and burned it. In their returne Sir Charles Coote cloſed with them at the Naas, where he hath beene ſince the battaile: they all marched to Tryme, where the Lords of the Rebels were; namely, the Earle of Fingall, Gor<g ref="char:EOLhyphen"/>monſton, Slany, Trimbleſton, and Nettervyle; who upon their approach fled, but without loſſe, onely of foure men, Mackham is ſlaine with ſome few that went with him.</p>
+               <p>The Lord Ravellogh hath ſlaine O Connor Dunne his eldeſt ſonne, and taken foure Colonels, and hath got good ſtore of Corne, and hath got two hundred pound, for ranſoming a Merchant of the worſhipfull Towne of Athlone. Sir Charles Coote junior, who followes his Fathers ſteps, met with his forces, and made his worke with fire and ſword amongſt the ene<g ref="char:EOLhyphen"/>mies on that ſide.</p>
+               <p>Since which time, Sir Charles Coote is killed accidentally by one of his owne Lievtenants, who when hee perceived the accident, hee would have runne himſelfe upon his owne Sword, had not a Captaine prevented him.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:156690:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
